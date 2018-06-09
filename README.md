@@ -67,3 +67,21 @@ npm init -y
 cd [project root directory]
 electron electron_hello_world/
 ```
+
+### package Electron
+
+#### install package
+
+``` package
+npm install -g asar
+npm i electron-packager -g
+```
+
+#### distribution
+
+``` distribution
+electron-packager ./electron_hello_world distribution --platform=win32 --arch=x64 --electronVersion=2.0.2 --overwrite --asar
+
+* arch:all x32 x64 both
+* platform: windows win32, mac darwin
+```
