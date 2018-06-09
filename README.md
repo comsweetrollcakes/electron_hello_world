@@ -1,8 +1,8 @@
 # electron_hello_world
 
-## enviroment for windows 10
+## Enviroment for windows 10
 
-### node.js
+### Node.js
 
 1. download file
 
@@ -20,9 +20,9 @@ software download click
 if it happen "Rolling back action" , you should select no install option node.js runtime.
 ```
 
-### electron
+### Electron
 
-* electron install
+* Electron install
 
 ``` install
 cd C:\Users\[username]
@@ -47,7 +47,7 @@ npm init -y
 
 * init
  change package.json from init package.json to git update package.json  
-`https://github.com/comsweetrollcakes/electron_hello_world/blob/master/package.json`
+`https://github.com/comsweetrollcakes/lectron_hello_world/blob/master/package.json`
 
 ### contents create
 
@@ -61,7 +61,7 @@ npm init -y
 
 `https://github.com/comsweetrollcakes/electron_hello_world/blob/master/index.html`
 
-### execute electron
+### execute Electron
 
 ``` execute
 cd [project root directory]
