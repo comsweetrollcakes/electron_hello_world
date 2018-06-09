@@ -2,29 +2,29 @@
 
 ## enviroment for windows 10
 
-### node.js 
+### node.js
 
 1. download file
 
-```
+``` download
 https://nodejs.org/ja/
 software download click
 ```
 
-2. install 
+2. install  
 
-  * download file install
+* download file install
 
-```
+``` notification
 * notification
-if it happen "Rolling back action" , you should select no install option node.js runtime. 
+if it happen "Rolling back action" , you should select no install option node.js runtime.
 ```
 
 ### electron
 
- * electron install
+* electron install
 
-```
+``` install
 cd C:\Users\[username]
 npm -g install electron-prebuilt
 
@@ -34,27 +34,36 @@ rm -rf node_modules
 ```
 
 ### create project
+
 * create free directory
 
 ### create project init
+
 * create init package.json
-```
+
+``` init
 npm init -y
 ```
-* change package.json from init package.json to git update package.json
-https://github.com/comsweetrollcakes/electron_hello_world/blob/master/package.json
+
+* init
+ change package.json from init package.json to git update package.json  
+`https://github.com/comsweetrollcakes/electron_hello_world/blob/master/package.json`
 
 ### contents create
+
 * create files
 
-  * main.js  
-https://github.com/comsweetrollcakes/electron_hello_world/blob/master/main.js
+* main.js  
 
-  * index.html  
-https://github.com/comsweetrollcakes/electron_hello_world/blob/master/index.html
+`https://github.com/comsweetrollcakes/electron_hello_world/blob/master/main.js`
+
+* index.html  
+
+`https://github.com/comsweetrollcakes/electron_hello_world/blob/master/index.html`
 
 ### execute electron
-```
+
+``` execute
 cd [project root directory]
 electron electron_hello_world/
 ```
