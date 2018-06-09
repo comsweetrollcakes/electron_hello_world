@@ -53,13 +53,13 @@ npm init -y
 
 * create files
 
-* main.js  
+  * main.js  
 
-`https://github.com/comsweetrollcakes/electron_hello_world/blob/master/main.js`
+  `https://github.com/comsweetrollcakes/electron_hello_world/blob/master/main.js`
 
-* index.html  
+  * index.html  
 
-`https://github.com/comsweetrollcakes/electron_hello_world/blob/master/index.html`
+  `https://github.com/comsweetrollcakes/electron_hello_world/blob/master/index.html`
 
 ### execute Electron
 
