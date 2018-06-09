@@ -33,11 +33,11 @@ open bash on windows
 rm -rf node_modules
 ```
 
-### create project
+#### create project
 
 * create free directory
 
-### create project init
+#### create project init
 
 * create init package.json
 
