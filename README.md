@@ -26,7 +26,7 @@ if it happen "Rolling back action" , you should select no install option node.js
 
 ``` install
 cd C:\Users\[username]
-npm -g install electron-prebuilt
+npm -g install electron
 
 * if you miss install command on other directory, delete all node_modules
 open bash on windows
